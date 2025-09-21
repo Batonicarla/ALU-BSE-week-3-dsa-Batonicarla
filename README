@@ -1,1 +1,15 @@
+# Data Structures Lab – Linked List
+
+## Overview
+This project implements a **singly linked list** in Python from scratch.  
+It includes:
+- Full implementation in `src/linked_list.py`
+- Unit tests in `tests/test_linked_list.py`
+- Complexity analysis in `docs/complexity_analysis.md`
+
+## How to Run
+1. Clone this repository.
+2. Navigate to the project folder:
+   ```bash
+   cd data-structures-lab
 
